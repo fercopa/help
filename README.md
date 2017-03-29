@@ -1,4 +1,4 @@
-# help for Django project TDD
+# Help for Django project TDD
 Contiene ayuda necesaria tanto para configuración como comandos útiles.
 
 # Project setup
