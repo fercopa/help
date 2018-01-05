@@ -44,6 +44,14 @@ Contiene ayuda necesaria tanto para configuración como comandos útiles.
   manage.py
   ```
   * Run with py.test
+# Config test
+ - Delete [appname]/test.py
+ - Create an [appname]/tests folder
+ - Create an [appname]/tests/__init__.py
+ - Create an [appname]/tests/test_models.py
+ - Create an [appname]/tests/test_forms.py
+ - Create an [appname]/tests/test_views.py
+ 
 # Example mixer
 ```python
 import pytest
